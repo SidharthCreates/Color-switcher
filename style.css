@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: 'Arial',sans-serif;
+    transition: background-color 0.5s ease; /* Smooth transition*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#red {background: #ff4d4d; color: white;}
+#blue {background: #4d94ff; color: white;}
+#green { background: #47d147; color: white;} 
