@@ -1,3 +1,5 @@
+https://sidharthcreates.github.io/Color-switcher/
+
 # Dynamic Color Switcher 🎨
 
 A lightweight, interactive web application that allows users to change the background color of the page dynamically using JavaScript.
